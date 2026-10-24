@@ -11,16 +11,35 @@ A sample animation is included in this repository:
 
 The demo video is stored in the same folder as the notebook. You can open or download it directly from GitHub.
 
+
+
 ## ✨ Features
 
-- 🎨 **Manim CE rendering** — Create mathematical, educational, and concept-based animations using Python.
-- 🖥️ **Gradio interface** — A simple UI for entering code and managing renders.
-- 📐 **Multiple aspect ratios** — Landscape (16:9), portrait (9:16), square (1:1), and 4:3, depending on configuration.
-- ⚡ **Multiple quality settings** — Draft, preview, and final rendering options.
-- 👀 **Video preview** — Preview the generated animation in the interface.
-- 📥 **MP4 export** — Download rendered videos.
-- 🧾 **Render logs** — Inspect errors and troubleshoot failed renders.
-- 📓 **Kaggle notebook workflow** — Set up the environment and launch the studio from a notebook.
+🎬 **Manim CE Rendering**  
+Create mathematical, educational, and concept-based animations using Python.
+
+🖥️ **Gradio Interface**  
+Write or paste Manim code and manage the rendering process through a simple interface.
+
+📐 **Multiple Aspect Ratios**  
+Choose from landscape (16:9), portrait (9:16), square (1:1), and 4:3 formats.
+
+⚡ **Rendering Quality Options**  
+Select draft, preview, or final quality depending on your requirements.
+
+👀 **Video Preview**  
+Preview your generated animations directly in the interface.
+
+📥 **MP4 Export**  
+Download rendered animations as MP4 videos.
+
+🛠️ **Render Logs and Error Handling**  
+View rendering logs and error messages to troubleshoot failed renders.
+
+📓 **Kaggle Notebook Support**  
+Set up and run the animation studio directly inside a Kaggle notebook.
+
+
 
 ## 📁 Repository Structure
 
