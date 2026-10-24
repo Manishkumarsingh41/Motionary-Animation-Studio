@@ -39,11 +39,26 @@ Run the studio in Kaggle, Google Colab, Jupyter, or another compatible notebook 
 ```text
 .
 ├── Manim_Animation_Studio_Complete.ipynb
-├── claude prompt tech.mp4
 └── README.md
 ```
 
-The notebook contains the animation studio, while the MP4 file demonstrates the workflow.
+The notebook contains the animation studio. The videos below demonstrate animations generated using this workflow.
+
+## 🎥 Generated Video Demos
+
+Here are three examples of videos created using the studio.
+
+### 1. Full Animation Demo — 9 Minutes
+
+[▶️ Watch on YouTube](https://youtu.be/C9czOHeenqM?si=-vNrj1tdw1j1neOu)
+
+### 2. Short Animation Demo — 1 Minute
+
+[▶️ Watch on YouTube](https://youtu.be/egXcyBRyJgU?si=ZCQMfUDUHjB34obH)
+
+### 3. Animation Demo — 1 Minute 40 Seconds
+
+[▶️ Watch on YouTube](https://youtu.be/Fi32vvYO9Pg?si=BOa57_2Hwn4QbsuI)
 
 ## 🚀 Where to Run the Notebook
 
@@ -106,7 +121,7 @@ Open ChatGPT, Claude, or another AI assistant capable of generating Python code.
 
 Copy the full Manim code-generation prompt used in your workflow. Keep its technical requirements and compatibility instructions intact.
 
-If the prompt contains a placeholder for the topic, script, or visual direction, replace it with your own content.
+If the prompt contains a placeholder for the topic, script, or visual direction, replace that placeholder with your own content.
 
 ### Step 3: Describe Your Animation
 
@@ -271,14 +286,6 @@ Use the link printed by the notebook. If the launch failed, inspect the output f
 - Use draft renders to catch layout issues early.
 - Give the AI precise instructions about what should appear and when.
 - Ask for targeted fixes when an error occurs.
-
-## 🎥 Demo
-
-Watch the included demonstration video:
-
-[▶️ View the output generated video](./claude%20prompt%20tech.mp4)
-
-If GitHub does not play the video inline, open the MP4 file in the repository or download it.
 
 ## 🧰 Technology Stack
 
