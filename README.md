@@ -1,5 +1,5 @@
 
-# 🎬 Manim Animation Studio
+# 🎬 Motionary Animation Studio
 
 A notebook-based animation studio for creating educational, mathematical, and concept-based animations using Python, Manim Community Edition, and Gradio.
 
